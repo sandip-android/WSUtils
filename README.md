@@ -53,7 +53,7 @@ httpRequestJson.execute(<URL>);
 5). RequsetBody -> JSON Parameter in String format (Eg. reqBody.toString()).  
 6). RequestName -> Simply identifier for HttpRequest which is used for identifying for Response of Request.  
 
-<H4>Raw Form Request (Http Request in which parameter is needed to pass in NamePairValue Form).</H4>
+<H4>Form Data Request (Http Request in which parameter is needed to pass in NamePairValue Form).</H4>
 
 <H4>From Activity</H4>
 
